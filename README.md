@@ -1,2 +1,3 @@
-# HI_GITGUB
-student
+# C Langurage learning 
+
+写这个东西的想法就是想让我弟弟，高中生学习基本的编程知识 开始很难限于自己的知识水平，努力更新吧，尽力而为
